@@ -39,7 +39,7 @@ html, body { height: 100%; }
 }
 
 .pt-page-ontop {
-	z-index: 999;
+	z-index: 99999;
 }
 
 /* Text Styles, Colors, Backgrounds */
